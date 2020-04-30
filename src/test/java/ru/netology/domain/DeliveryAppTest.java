@@ -2,7 +2,6 @@ package ru.netology.domain;
 
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Keys;
-
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
@@ -11,7 +10,6 @@ import static com.codeborne.selenide.Condition.exactText;
 import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selectors.withText;
 import static com.codeborne.selenide.Selenide.*;
-
 
 public class DeliveryAppTest {
 
