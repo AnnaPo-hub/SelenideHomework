@@ -20,7 +20,7 @@
       
    Приложение запускается на порту 8080; 
    
-   [Иллюстрация](screenshort/allureReport.png)
+   [Иллюстрация](screenshort/Screenshot 2020-06-03 at 23.03.43.png)
   
 1. Запустите тесты командой: 
     * при работе с postgres: `./gradlew test -Dproperty_name=jdbc:postgresql://localhost:5432/postgres 
